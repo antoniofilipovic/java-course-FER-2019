@@ -1,0 +1,2 @@
+1	Prvo glasanje za omiljeni bend			Od sljedećih bendova, koji Vam je bend najdraži? Kliknite na link kako biste glasali!	/WEB-INF/glasanje-definicija1.txt
+2	Drugo glasanje za omiljeni bend			Od sljedećih bendova, koji Vam je bend najdraži? Kliknite na link kako biste glasali!	/WEB-INF/glasanje-definicija2.txt

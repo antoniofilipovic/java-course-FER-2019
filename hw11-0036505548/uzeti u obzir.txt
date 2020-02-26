@@ -1,0 +1,16 @@
+kad se pokrene mo�e li se odma pisati->sre�eno
+
+raspored jpanel u donjem dijelu i dodavanje separatora
+
+ako ima više dokumentata koji se nisu spremili treba i ako se stisne ne onda se vrti u nekoj
+petlji
+
+
+ponudit spremanje kod izlaska
+
+
+
+
+
+
+

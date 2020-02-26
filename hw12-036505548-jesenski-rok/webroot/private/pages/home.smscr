@@ -1,0 +1,41 @@
+{$= "text/html" @setMimeType $}
+<!DOCTYPE html>
+<html>
+ <head>
+ 	<style>
+ 		body {background-color: #{$= "bgcolor" "FF0000" @pparamGet $};}
+ 	</style>
+ </head>
+ <body>
+ 
+ 	<ul>
+      <li>Osnovni <a href="/scripts/osnovni.smscr" target="_blank">(ovdje)</a></li>
+      <li>Broj poziva  <a href="/scripts/brojPoziva.smscr" target="_blank">(ovdje)</a></li>
+      <li>Fibonnacih <a href="/scripts/fibonaccih.smscr" target="_blank">(ovdje)</a></li>
+      <li>Hello Worker <a href="/hello" target="_blank">(ovdje)</a></li>
+      <li>Circle Worker <a href="/cw" target="_blank">(ovdje)</a></li>
+    </ul>
+    
+    <form action="/calc" method="get">
+    	a:<input type="text" name="a" value="0"><br>
+    	b:<input type="text" name="b" value="0"><br>
+    <input type="submit" value="Submit">
+    </form>
+    <p>Stisni gumb "Submit" i dobit ćeš zbroj ta dva unesen broja.</p>
+    
+    
+     <p></p>
+     <p>Stisni gumb "Submit color" i promjenit će se pozadina.</p>
+    <SELECT name="bgcolor" form="bgcolorchoose">
+    	<option value="FF0000">Crvena</option>
+  		<option value="0000FF">Plava</option>
+  		<option value="FFFF00">Žuta</option>
+  		<option value="808080">Siva</option>
+  	</select>
+  	
+  	<form  method="GET" action="/setbgcolor"  id="bgcolorchoose">
+	<input type="submit" value="Submit color">
+	</form>
+    
+ </body>
+</html>

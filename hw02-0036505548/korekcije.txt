@@ -1,0 +1,22 @@
+Collection
+- is Empty nepotreban if 
+-dokumentirao lokalnu klasu u addAll
+
+ArrayIndexedCollection
+- dokumentirao članske varijable
+- posao dodavanja elemenata kolekcije delegirato metodi addAll
+
+LinkedListIndexedCollection
+- dokumentacija na članske varijable i ListNode i njene članske varijable 
+
+ObjectStack
+- u clear metodi popravio da se poziva stack.clear()
+-popravio Stackdemo 
+
+Example - preselio u demo paket i dodao dokumentaciju
+
+getAngle()- ispravio povratnu vrijednost za kut PI(tj. za real<0 i imaginary==0)
+-baca exception za 0 i 0
+
+complexDemo dodao javadoc
+

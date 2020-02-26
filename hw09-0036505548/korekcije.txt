@@ -1,0 +1,12 @@
+Popravio upozorenja i maknuo nepotrebne dijelove koda.
+
+1. Zadatak
+Dodao javadoc gdje nedostaje i maknuo nepotrebne dijelove.
+
+2. Zadatak 
+Scanner zatvoren.
+Popravio rušenje programa zbog pool.shutdown() te pogrešku data[height * y + x]
+Maknuo ispise.
+
+3. Zadatak 
+Popravio liniju s [height * y + x]

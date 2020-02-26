@@ -1,0 +1,7 @@
+{$= "allWeHavetoDoIsGo" @Bla $}Bla bla bla 10 \\ rn:.ai3i 
+\{:
+{$ FOR bla 2.3 " \" \\ \r\n " 
+$} \{$ nije tag haha 
+{$END$} the _AG4gakg44 
+{$= nesto sad_Ide_String_pazi " \"ovo_je_dobar\" string \\ \r \n"
+$}

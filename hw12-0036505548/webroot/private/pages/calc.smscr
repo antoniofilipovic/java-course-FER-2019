@@ -1,0 +1,39 @@
+{$= "text/html" @setMimeType $}
+<html>
+ 	<head>
+ 		<title>Naše prvo zbrajanje</title>
+ 		<style>table, th, td{ border: 1px solid black}</style>
+ 	</head>
+ 	
+ 	
+ 	
+ 	<body>
+ 	
+ 	<h1>Zbrajanje</h1>
+ 	
+ 		<table>
+ 			<tbody>
+ 				<tr>
+ 				<td>a</td>
+ 				<td>{$= "a" "1" @paramGet $}</td>
+ 				</tr>
+ 				
+ 				<tr>
+ 				<td>b </td>
+ 				<td>{$= "b" "2" @paramGet $}</td> 
+ 				</tr>
+ 				
+ 				<tr>
+ 				<td>a+b</td>
+ 				<td>{$= "zbroj" "3" @tparamGet $}</td>
+ 				</tr>
+ 			</tbody>
+ 		</table>
+ 		
+ 	<p>I jedna prigodna sličica...</p>
+    <img alt="Slika" src={$= "imgName" "bla" @tparamGet $}>
+ 		
+ 	</body>
+ 	
+ 	
+</html>

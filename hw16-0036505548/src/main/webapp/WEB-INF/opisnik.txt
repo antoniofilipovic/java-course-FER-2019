@@ -1,0 +1,60 @@
+zagreb.jpg
+Glavni grad Hrvatske
+glavni, kopno, veliki, Grad Zagreb, turizam
+zadar.jpg
+Naljepši grad Hrvatske
+more, ljeto, orgulje, dalmacija, zadarska
+split.jpg
+Najveći grad Dalmacije
+more, luka, veliki, splitsko-dalmatinska
+rijeka.jpg
+Najveća hrvatska luka
+primorsko-goranska, more, ljeto, luka, veliki
+dubrovnik.jpg
+Najveći turistički grad
+dubrovačko-neretvanska, more, turizam
+pula.jpg
+Najveći grad Istre
+more, turizam, luka, istarska
+varaždin.jpg
+Obalni grad sjeverozapadne Hrvatske
+kopno, varaždinska, rijeka
+osijek.jpg
+Grad istočne Hrvatske
+rijeka, kopno, veliki, osiječko-baranjska
+karlovac.jpg
+Grad na  četiri rijeke
+karlovačka, rijeka, kopno
+samobor.jpg
+Grad s najboljim kremšnitama
+kremšnita, kopno, turizam
+vukovar.jpg
+Grad Vukovar
+obrana, pobjeda, rijeka
+slavonskiBrod.jpg
+Slavonski Brod
+rijeka, bosna, manji
+šibenik.jpg
+Šibenik
+more, ljeto, manji
+rovinj.jpg
+Rovinj
+more, ljeto, manji
+zapresic.jpg
+Parking Zagreba - Zaprešić
+manji, jako mali, parking
+bjelovar.jpg
+Bjelovar
+bijeli, manji
+krapina.jpg
+Krapina
+toplice, manji, kultura
+sisak.jpg
+Sisak
+industrijski, sisačko-moslavačka, manji
+poreč.jpg
+Poreč
+manji, more, ljeto
+gospić.jpg
+Gospić
+manji, zima
